@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomMinMax", "RandomMinMa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonteCarlo", "MonteCarlo\MonteCarlo.csproj", "{D5604D02-E10A-4A49-90A1-D9606C5AACCF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pascale", "Pascale\Pascale.csproj", "{4F7FEB5A-3BC8-4700-A73C-8D42790FFBE9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{D5604D02-E10A-4A49-90A1-D9606C5AACCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D5604D02-E10A-4A49-90A1-D9606C5AACCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D5604D02-E10A-4A49-90A1-D9606C5AACCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F7FEB5A-3BC8-4700-A73C-8D42790FFBE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F7FEB5A-3BC8-4700-A73C-8D42790FFBE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F7FEB5A-3BC8-4700-A73C-8D42790FFBE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F7FEB5A-3BC8-4700-A73C-8D42790FFBE9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
