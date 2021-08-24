@@ -12,3 +12,6 @@ Thngs I learned during Project Euler
 - String to Int - Problem 8
 - Loop break - Problem 9
 - Eratosthenes Sieve - Problem 10
+- Reading text files - Problem 11
+- Splitting strings - Problem 11
+- Lists of lists - Problem 11
