@@ -15,3 +15,6 @@ Thngs I learned during Project Euler
 - Reading text files - Problem 11
 - Splitting strings - Problem 11
 - Lists of lists - Problem 11
+- converting long to int - Problem 14
+- BigInteger - Problem 15
+- gluing strings together - Problem 17
