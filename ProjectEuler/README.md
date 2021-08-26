@@ -18,3 +18,4 @@ Thngs I learned during Project Euler
 - converting long to int - Problem 14
 - BigInteger - Problem 15
 - gluing strings together - Problem 17
+- Use of commentaries - Problem 18
